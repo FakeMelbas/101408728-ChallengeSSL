@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SSLDatabase", "SSLDatabase\SSLDatabase.sqlproj", "{43C1DF8C-A99B-4B8C-8004-AE29C19BFB57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSLWebAPIAuth", "SSLWebAPIAuth\SSLWebAPIAuth.csproj", "{221456BD-1666-4F1D-8E7B-408E64BC4687}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSLWebAPIAuth", "SSLWebAPIAuth\SSLWebAPIAuth.csproj", "{D779B7A4-57AB-4A90-A401-A4032281C21C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +19,10 @@ Global
 		{43C1DF8C-A99B-4B8C-8004-AE29C19BFB57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43C1DF8C-A99B-4B8C-8004-AE29C19BFB57}.Release|Any CPU.Build.0 = Release|Any CPU
 		{43C1DF8C-A99B-4B8C-8004-AE29C19BFB57}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{221456BD-1666-4F1D-8E7B-408E64BC4687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{221456BD-1666-4F1D-8E7B-408E64BC4687}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{221456BD-1666-4F1D-8E7B-408E64BC4687}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{221456BD-1666-4F1D-8E7B-408E64BC4687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D779B7A4-57AB-4A90-A401-A4032281C21C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D779B7A4-57AB-4A90-A401-A4032281C21C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D779B7A4-57AB-4A90-A401-A4032281C21C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D779B7A4-57AB-4A90-A401-A4032281C21C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
